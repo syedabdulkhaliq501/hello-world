@@ -64,7 +64,7 @@ public class ImageTest {
 		}
 	}
 
-	public static void main(String[] args) {
+	public static void main(String[] args) {/*
 
 		File f = new File("C:\\Users\\skhaliq\\Spark\\user\\skhaliq@jnet176\\downloads\\ConvertedIMAGES");
 		if (!f.exists()) {
@@ -73,7 +73,7 @@ public class ImageTest {
 
 		final File folder = new File("C:\\Users\\skhaliq\\Spark\\user\\skhaliq@jnet176\\downloads\\IMAGES");
 		listFilesForFolder(folder);
-		/*
+		
 		 * try{
 		 * 
 		 * File file=new File(
@@ -106,8 +106,11 @@ public class ImageTest {
 		 * ));
 		 * 
 		 * }catch(IOException e){ System.out.println(e.getMessage()); }
-		 */
+		 
 
+	*/
+		
+	System.out.println("djfhjdhfjsh");
 	}
 
 	private static BufferedImage resizeImage(BufferedImage originalImage, int type) {

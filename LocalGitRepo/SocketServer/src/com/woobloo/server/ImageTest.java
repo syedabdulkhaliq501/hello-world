@@ -111,7 +111,7 @@ public class ImageTest {
 	*/
 		
 		
-	System.out.println("sop");
+	System.out.println("Hi");
 	
 	}
 

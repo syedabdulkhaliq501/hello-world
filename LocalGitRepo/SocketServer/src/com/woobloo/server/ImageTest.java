@@ -114,6 +114,7 @@ public class ImageTest {
 	System.out.println("djfhjdhfjsh");
 	System.out.println("djfhjdhfjsh 222222222");
 		System.out.println("djfhjdhfjsh 2222232222333333333333");
+		System.out.println("djfhjdhfjsh 22222322223333333333333344444444444");
 	}
 
 	private static BufferedImage resizeImage(BufferedImage originalImage, int type) {

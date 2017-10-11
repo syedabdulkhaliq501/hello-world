@@ -110,8 +110,12 @@ public class ImageTest {
 
 	*/
 		
-		
-	System.out.println("Hi");
+
+
+		System.out.println("sop");
+
+		System.out.println("2 more sop");
+		System.out.println("2 more sop");
 	
 	}
 

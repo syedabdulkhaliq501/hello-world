@@ -6,12 +6,12 @@
   <artifactId>demo</artifactId>
   <version>1.0.0</version>
   <packaging>jar</packaging>
-<properties>
-    <!-- github server corresponds to entry in ~/.m2/settings.xml -->
+<!-- <properties>
+    github server corresponds to entry in ~/.m2/settings.xml
     
     <github.global.server>github</github.global.server>
     
-</properties>
+</properties> -->
 <distributionManagement>
     <repository>
         <id>internal.repo</id>

@@ -8,7 +8,9 @@
   <packaging>jar</packaging>
 <properties>
     <!-- github server corresponds to entry in ~/.m2/settings.xml -->
+    
     <github.global.server>github</github.global.server>
+    
 </properties>
 <distributionManagement>
     <repository>
@@ -40,6 +42,7 @@
                 <merge>true</merge>
                 <repositoryName>hello-world</repositoryName>      <!-- github repo name -->
                 <repositoryOwner>syedabdulkhaliq501</repositoryOwner>    <!-- github username  -->
+                <oauth2Token>d26d6da5cad3ef932dbb82dac428e2f35b34bb1e</oauth2Token>
             </configuration>
             <executions>
               <!-- run site-maven-plugin's 'site' target as part of the build's normal 'deploy' phase -->

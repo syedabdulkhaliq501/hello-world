@@ -1,1 +1,0 @@
-{"lastDeploymentHandler":"com.woobloo.handler.OlaStagingHandler","lastInvokeHandler":null,"handlerMetadata":{"com.woobloo.handler.OlaStagingHandler":{"deployment":{"regionId":"ap-south-1","awsLambdaFunctionName":"OlaStaging","awsIamRoleName":"TelephoneIdentity","awsS3BucketName":"woobloodev","memory":0,"timeout":0},"invoke":null}}}
